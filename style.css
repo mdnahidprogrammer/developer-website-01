@@ -75,6 +75,11 @@ h3 {
     background-position: left;
 }
 
+.experiences-part h1 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
 .experience-half-part {
     width: 40%;
     margin: 0 5%;
